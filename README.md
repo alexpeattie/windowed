@@ -42,7 +42,7 @@ See the site for **[more usage and examples](http://www.alexpeattie.com/projects
 
 See **[Compatibility](https://github.com/alexpeattie/windowed/wiki/Compatibility)** in the wiki for the most up-to-date info.
 
-I've tested the plugin on recent versions of Firefox, Chrome and Safari (mobile & desktop) - theoretically it should work fine in IE7+ and Opera, but these are untested. If you've tried the plugin with an untested browser, please, add it to the wiki!
+I've tested the plugin with recent versions of Firefox, Chrome and Safari (mobile & desktop) - theoretically it should work fine in IE7+ and Opera, but these are untested. If you've tried the plugin with an untested browser, please, add it to the wiki!
 
 ## Credits
 
@@ -64,7 +64,7 @@ Initial version.
 
 If you want to have a stab at any of the todo items above - or anything else - [pull requests](https://github.com/alexpeattie/windowed/pulls) are gratefully received.
 
-For any bug reports or feature ideas, head over to [Issues](https://github.com/alexpeattie/windowed/pulls). Another big help would be to expand the [documentation on browser compatibility](https://github.com/alexpeattie/windowed/wiki/Compatibility) in the wiki.
+For any bug reports or feature ideas, head over to [Issues](https://github.com/alexpeattie/windowed/issues). Another big help would be to expand the [documentation on browser compatibility](https://github.com/alexpeattie/windowed/wiki/Compatibility) in the wiki.
 
 ## License
 
